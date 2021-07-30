@@ -28,7 +28,7 @@ int main()
         {
             start=mid+1;
         }
-        else if(val<arr[mid])
+        else
         {
             endd=mid-1;
         }
